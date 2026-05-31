@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: loja_raw
+    database: summer-reducer-456821-p3 # Substitua pelo ID do seu projeto
+    schema: loja_raw
+    tables:
+      - name: raw_clientes
+      - name: raw_produtos
+      - name: raw_vendas

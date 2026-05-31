@@ -1,0 +1,9 @@
+# Pastas de compilação e execução temporária do dbt
+target/
+dbt_modules/
+dbt_packages/
+logs/
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
