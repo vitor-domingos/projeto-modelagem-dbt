@@ -6,7 +6,7 @@ O objetivo do projeto é demonstrar a transformação de dados estruturados em f
 
 ---
 
-## 📌 Fluxo da Arquitetura Dimensional
+## Fluxo da Arquitetura Dimensional
 
 O pipeline de dados opera sob o conceito de transformações in-database (T do processo ELT), estruturando os dados da seguinte forma:
 
